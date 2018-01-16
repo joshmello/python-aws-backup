@@ -54,8 +54,8 @@ Alternatively, you can pass a region_name when creating clients and resources.
 
 This sets up credentials for the default profile as well as a default region to use when creating connections. See Credentials for in-depth configuration sources and options.
 
-**Directories**
-
+Directories
+------------
 You can backup as many directories as you like. Simply define it as a list and include the full path, e.g.
 
 ```
